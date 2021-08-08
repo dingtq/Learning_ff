@@ -1,0 +1,36 @@
+library(dplyr, warn.conflicts = FALSE)
+
+library(pdftools)
+
+library(readr)
+library(tidyr)
+library(lubridate)
+
+
+url <- "http://jfe.rochester.edu/Huang_app.pdf"
+t <- tempfile() 
+download.file(url, t)
+
+regex <- paste0("^\\s?(.*?)\\s+",   # Any characters, which may include spaces 
+                                    #   (preceded by and followed by spaces)
+                "([^\\s]+)\\s+",             # Non-space characters
+                "([0-9]{1,2}/[0-9]{4})\\s+", # Date in m/yyyy format
+                "([0-9]{1,2}/[0-9]{4})\\s+", # Date in m/yyyy format
+                "([^\\s]+)\\s+",             # Non-space characters
+                "(.*)$")                     # The remaining characters
+
+cols <-  c("company_name", "industry", "start", 
+           "end", "months", "reviews")
+
+huang_data <-
+    pdftools::pdf_text(t) %>% 
+    readr::read_lines(skip = 26, n_max = 352) %>%
+    tibble(temp = .) %>%
+    tidyr::extract(temp, cols, regex) %>%
+    filter(!is.na(company_name)) %>%
+    mutate(across(all_of(c("months", "reviews")), 
+                  readr::parse_number)) %>%
+    mutate(across(all_of(c("start", "end")), 
+                  ~ dmy(paste0("1/", .x))))
+
+huang_data

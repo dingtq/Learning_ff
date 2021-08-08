@@ -1,0 +1,247 @@
+eonomic_sector_code,eonomic_sector_desc,industry_group_code,industry_group_desc,industry_code,industry_desc,subindustry_code,subindustry_desc
+10,Energy,1010,Energy,101010,Energy Equipment & Services,10101010,Oil & Gas Drilling
+10,Energy,1010,Energy,101010,Energy Equipment & Services,10101010,"Manufacturers of oil rigs and drilling equipment, and providers of drilling services."
+10,Energy,1010,Energy,101010,Energy Equipment & Services,10101020,Oil & Gas Equipment & Services
+10,Energy,1010,Energy,101010,Energy Equipment & Services,10101020,Manufacturers of equipment for and providers of services to the oil and gas industry not classified elsewhere. Includes companies providing seismic data collection services.
+10,Energy,1010,Energy,101020,Oil & Gas,10102010,Integrated Oil & Gas
+10,Energy,1010,Energy,101020,Oil & Gas,10102010,"Integrated oil companies engaged in the exploration, production, refinement and distribution of oil and gas products."
+10,Energy,1010,Energy,101020,Oil & Gas,10102020,Oil & Gas Exploration & Production
+10,Energy,1010,Energy,101020,Oil & Gas,10102020,Companies engaged in the exploration and production of oil and gas not classified elsewhere.
+10,Energy,1010,Energy,101020,Oil & Gas,10102030,Oil & Gas Refining & Marketing
+10,Energy,1010,Energy,101020,Oil & Gas,10102030,Companies engaged in the refining and marketing of oil and gas products not classified in the Integrated Oil & Gas sub-industry.
+15,Materials,1510,Materials,151010,Chemicals,15101010,Commodity Chemicals
+15,Materials,1510,Materials,151010,Chemicals,15101010,"Companies that primarily produce industrial chemicals and basic chemicals. Includes plastics, synthetic fibers, films, paints, explosives and petrochemicals. Excludes chemical companies classified in the Diversified Chemicals, Fertilizers & Agricultural Chemicals, Industrial Gases, or Specialty Chemicals sub-industries."
+15,Materials,1510,Materials,151010,Chemicals,15101020,Diversified Chemicals
+15,Materials,1510,Materials,151010,Chemicals,15101020,"Manufacturers of a diversified range of chemical products not classified in the Industrial Gases, Commodity Chemicals, Specialty Chemicals or Fertilizers & Agricultural Chemicals sub-industries."
+15,Materials,1510,Materials,151010,Chemicals,15101030,Fertilizers & Agricultural Chemicals
+15,Materials,1510,Materials,151010,Chemicals,15101030,"Producers of fertilizers, pesticides, potash or other agriculture-related chemicals not classified elsewhere."
+15,Materials,1510,Materials,151010,Chemicals,15101040,Industrial Gases
+15,Materials,1510,Materials,151010,Chemicals,15101040,Manufacturers of industrial gases.
+15,Materials,1510,Materials,151010,Chemicals,15101050,Specialty Chemicals
+15,Materials,1510,Materials,151010,Chemicals,15101050,"Companies that primarily produce high value-added chemicals used in the manufacture of a wide variety of products, including fine chemicals, pigments, additives, advanced polymers and specialty coatings."
+15,Materials,1510,Materials,151020,Construction Materials,15102010,Construction Materials
+15,Materials,1510,Materials,151020,Construction Materials,15102010,"Manufacturers of construction materials including sand, clay, gypsum, lime, aggregates, cement, concrete and bricks. Other finished or semi-finished building materials are classified  in the Building Products sub-industry."
+15,Materials,1510,Materials,151030,Containers & Packaging,15103010,Metal & Glass Containers
+15,Materials,1510,Materials,151030,Containers & Packaging,15103010,"Manufacturers of metal, glass or plastic containers. Includes corks and caps."
+15,Materials,1510,Materials,151030,Containers & Packaging,15103020,Paper Packaging
+15,Materials,1510,Materials,151030,Containers & Packaging,15103020,Manufacturers of paper and cardboard containers and packaging.
+15,Materials,1510,Materials,151040,Metals & Mining,15104010,Aluminum
+15,Materials,1510,Materials,151040,Metals & Mining,15104010,"Producers of aluminum and related products, including companies that mine or process bauxite and companies that recycle aluminum to produce finished or semi-finished products. Excludes companies that primarily produce aluminum building materials classified in the Building Products sub-industry."
+15,Materials,1510,Materials,151040,Metals & Mining,15104020,Diversified Metals & Mining
+15,Materials,1510,Materials,151040,Metals & Mining,15104020,Companies engaged in diversified production or extraction of metals and minerals not classified elsewhere. Includes companies that are primarily involved in coal mining or production.
+15,Materials,1510,Materials,151040,Metals & Mining,15104030,Gold
+15,Materials,1510,Materials,151040,Metals & Mining,15104030,"Producers of gold and related products, including companies that mine or process gold and the South African finance houses which primarily invest in, but do not operate, gold mines."
+15,Materials,1510,Materials,151040,Metals & Mining,15104040,Precious Metals & Minerals
+15,Materials,1510,Materials,151040,Metals & Mining,15104040,Companies mining precious metals and minerals not classified in the Gold sub-industry. Includes companies primarily mining platinum.
+15,Materials,1510,Materials,151040,Metals & Mining,15104050,Steel
+15,Materials,1510,Materials,151040,Metals & Mining,15104050,Producers of iron and steel and related products
+15,Materials,1510,Materials,151050,Paper & Forest Products,15105010,Forest Products
+15,Materials,1510,Materials,151050,Paper & Forest Products,15105010,Manufacturers of timber and related wood products. Includes lumber for the building industry.
+15,Materials,1510,Materials,151050,Paper & Forest Products,15105020,Paper Products
+15,Materials,1510,Materials,151050,Paper & Forest Products,15105020,Manufacturers of all grades of paper. Excludes companies specializing in paper packaging classified in the Paper Packaging sub-industry.
+20,Industrials,2010,Capital Goods,201010,Aerospace & Defense,20101010,Aerospace & Defense
+20,Industrials,2010,Capital Goods,201010,Aerospace & Defense,20101010,"Manufacturers of civil or military aerospace and defense equipment, parts or products. Includes defense electronics and space equipment."
+20,Industrials,2010,Capital Goods,201020,Building Products,20102010,Building Products
+20,Industrials,2010,Capital Goods,201020,Building Products,20102010,Manufacturers of building components and home improvement products and equipment. Excludes lumber and plywood classified under Forest Products and cement and other materials classified in the Construction Materials sub-industry.
+20,Industrials,2010,Capital Goods,201030,Construction & Engineering,20103010,Construction & Engineering
+20,Industrials,2010,Capital Goods,201030,Construction & Engineering,20103010,Companies engaged in primarily non-residential construction. Includes civil engineering companies and large-scale contractors. Excludes companies classified in the Homebuilding sub-industry.
+20,Industrials,2010,Capital Goods,201040,Electrical Equipment,20104010,Electrical Components & Equipment
+20,Industrials,2010,Capital Goods,201040,Electrical Equipment,20104010,"Companies that produce electric cables and wires, electrical components or equipment not classified in the Heavy Electrical Equipment sub-industry."
+20,Industrials,2010,Capital Goods,201040,Electrical Equipment,20104020,Heavy Electrical Equipment
+20,Industrials,2010,Capital Goods,201040,Electrical Equipment,20104020,"Manufacturers of power-generating equipment and other heavy electrical equipment, including power turbines, heavy electrical machinery intended for fixed-use and large electrical systems. Excludes cables and wires, classified in the Electrical Components & Equipment sub-industry."
+20,Industrials,2010,Capital Goods,201050,Industrial Conglomerates,20105010,Industrial Conglomerates
+20,Industrials,2010,Capital Goods,201050,Industrial Conglomerates,20105010,"Diversified industrial companies with business activities in three or more of the Energy, Industrials, Materials, Consumer Discretionary, Health Care and Information Technology sectors, none of which contributes a majority of revenues. Excludes companies classified in the Multi-Sector Holdings sub-industry."
+20,Industrials,2010,Capital Goods,201060,Machinery,20106010,Construction & Farm Machinery
+20,Industrials,2010,Capital Goods,201060,Machinery,20106010,"Manufacturers of heavy duty trucks, rolling machinery, earth-moving and construction equipment, heavy farm machinery and manufacturers of related parts. Includes shipbuilding."
+20,Industrials,2010,Capital Goods,201060,Machinery,20106020,Industrial Machinery
+20,Industrials,2010,Capital Goods,201060,Machinery,20106020,"Manufacturers of industrial machinery and industrial components. Includes companies that manufacture presses, machine tools, compressors, pollution control equipment, elevators, escalators, insulators, pumps, roller bearings and other metal fabrications."
+20,Industrials,2010,Capital Goods,201070,Trading Companies & Distributors,20107010,Trading Companies & Distributors
+20,Industrials,2010,Capital Goods,201070,Trading Companies & Distributors,20107010,Trading companies and other distributors of industrial equipment and products.
+20,Industrials,2020,Commercial Services & Supplies,202010,Commercial Services & Supplies,20201010,Commercial Printing
+20,Industrials,2020,Commercial Services & Supplies,202010,Commercial Services & Supplies,20201010,"Companies providing commercial printing services. Excludes printers primarily serving the media industry, classified under Publishing & Printing."
+20,Industrials,2020,Commercial Services & Supplies,202010,Commercial Services & Supplies,20201020,Data Processing Services
+20,Industrials,2020,Commercial Services & Supplies,202010,Commercial Services & Supplies,20201020,Providers of commercial electronic data processing services.
+20,Industrials,2020,Commercial Services & Supplies,202010,Commercial Services & Supplies,20201030,Diversified Commercial Services
+20,Industrials,2020,Commercial Services & Supplies,202010,Commercial Services & Supplies,20201030,"Companies providing commercial and consumer services not classified elsewhere. Includes commercial cleaning services, education services and security services."
+20,Industrials,2020,Commercial Services & Supplies,202010,Commercial Services & Supplies,20201040,Employment Services
+20,Industrials,2020,Commercial Services & Supplies,202010,Commercial Services & Supplies,20201040,Employment agencies and related services.
+20,Industrials,2020,Commercial Services & Supplies,202010,Commercial Services & Supplies,20201050,Environmental Services
+20,Industrials,2020,Commercial Services & Supplies,202010,Commercial Services & Supplies,20201050,Providers of environmental services. Includes waste management and pollution control services. Excludes large-scale water treatment systems classified in the Water Utilities sub-industry.
+20,Industrials,2020,Commercial Services & Supplies,202010,Commercial Services & Supplies,20201060,Office Services & Supplies
+20,Industrials,2020,Commercial Services & Supplies,202010,Commercial Services & Supplies,20201060,Providers of office services and manufacturers of office supplies and equipment not classified elsewhere.
+20,Industrials,2030,Transportation,203010,Air Freight & Couriers,20301010,Air Freight & Couriers
+20,Industrials,2030,Transportation,203010,Air Freight & Couriers,20301010,"Companies providing air freight transportation and logistics services, including package and mail delivery and customs agents. Excludes those companies classified in the Airlines or Marine sub-industries."
+20,Industrials,2030,Transportation,203020,Airlines,20302010,Airlines
+20,Industrials,2030,Transportation,203020,Airlines,20302010,Companies providing primarily passenger air transportation.
+20,Industrials,2030,Transportation,203030,Marine,20303010,Marine
+20,Industrials,2030,Transportation,203030,Marine,20303010,Companies providing goods or passenger maritime transportation. Excludes cruise-ships classified in the Hotels sub-industry.
+20,Industrials,2030,Transportation,203040,Road & Rail,20304010,Railroads
+20,Industrials,2030,Transportation,203040,Road & Rail,20304010,Companies providing primarily goods and passenger rail  transportation.
+20,Industrials,2030,Transportation,203040,Road & Rail,20304020,Trucking
+20,Industrials,2030,Transportation,203040,Road & Rail,20304020,Companies providing primarily goods and passenger land transportation. Includes vehicle rental and taxi companies.
+20,Industrials,2030,Transportation,203050,Transportation Infrastructure,20305010,Airport Services
+20,Industrials,2030,Transportation,203050,Transportation Infrastructure,20305010,Operators of airports and companies providing related services.
+20,Industrials,2030,Transportation,203050,Transportation Infrastructure,20305020,Highways & Railtracks
+20,Industrials,2030,Transportation,203050,Transportation Infrastructure,20305020,"Owners and operators of roads, tunnels and railtracks."
+20,Industrials,2030,Transportation,203050,Transportation Infrastructure,20305030,Marine Ports & Services
+20,Industrials,2030,Transportation,203050,Transportation Infrastructure,20305030,Owners and operators of marine ports and related services.
+25,Consumer Discretionary,2510,Automobiles & Components,251010,Auto Components,25101010,Auto Parts & Equipment
+25,Consumer Discretionary,2510,Automobiles & Components,251010,Auto Components,25101010,Manufacturers of parts and accessories for  automobiles and motorcycles. Excludes companies classified in the Tires & Rubber sub-industry.
+25,Consumer Discretionary,2510,Automobiles & Components,251010,Auto Components,25101020,Tires & Rubber
+25,Consumer Discretionary,2510,Automobiles & Components,251010,Auto Components,25101020,Manufacturers of tires and rubber.
+25,Consumer Discretionary,2510,Automobiles & Components,251020,Automobiles,25102010,Automobile Manufacturers
+25,Consumer Discretionary,2510,Automobiles & Components,251020,Automobiles,25102010,Companies that produce mainly passenger automobiles and light trucks. Excludes companies producing mainly motorcycles and three-wheelers classified in the Motorcycle Manufacturers sub-industry and heavy duty trucks classified in the Construction & Farm Machinery sub-industry.
+25,Consumer Discretionary,2510,Automobiles & Components,251020,Automobiles,25102020,Motorcycle Manufacturers
+25,Consumer Discretionary,2510,Automobiles & Components,251020,Automobiles,25102020,"Companies that produce motorcycles, scooters or three-wheelers. Excludes bicycles classified in Leisure Products & Toys."
+25,Consumer Discretionary,2520,Consumer Durables & Apparel,252010,Household Durables,25201010,Consumer Electronics
+25,Consumer Discretionary,2520,Consumer Durables & Apparel,252010,Household Durables,25201010,"Manufacturers of consumer electronics products including TVs, VCRs, hi-fi equipment, game consoles and related products. Excludes personal home computer manufacturers classified in the Computer Hardware sub-industry, and electric household appliances classified in the Household Appliances sub-industry."
+25,Consumer Discretionary,2520,Consumer Durables & Apparel,252010,Household Durables,25201020,Home Furnishings
+25,Consumer Discretionary,2520,Consumer Durables & Apparel,252010,Household Durables,25201020,"Manufacturers of soft home furnishings or furniture, including upholstery, carpets and wall-coverings."
+25,Consumer Discretionary,2520,Consumer Durables & Apparel,252010,Household Durables,25201030,Homebuilding
+25,Consumer Discretionary,2520,Consumer Durables & Apparel,252010,Household Durables,25201030,Residential construction companies. Includes manufacturers of prefabricated houses and semi-fixed manufactured homes.
+25,Consumer Discretionary,2520,Consumer Durables & Apparel,252010,Household Durables,25201040,Household Appliances
+25,Consumer Discretionary,2520,Consumer Durables & Apparel,252010,Household Durables,25201040,"Manufacturers of electric household appliances and related products.  Includes manufacturers of power and hand tools, including garden improvement tools. Excludes TVs and other audio and video products classified in the Consumer Electronics sub-industry and personal computers classified in the Computer Hardware sub-industry."
+25,Consumer Discretionary,2520,Consumer Durables & Apparel,252010,Household Durables,25201050,Housewares & Specialties
+25,Consumer Discretionary,2520,Consumer Durables & Apparel,252010,Household Durables,25201050,"Manufacturers of durable household products, including cutlery, cookware, glassware, crystal, silverware, utensils, kitchenware and consumer specialties not classified elsewhere."
+25,Consumer Discretionary,2520,Consumer Durables & Apparel,252020,Leisure Equipment & Products,25202010,Leisure Products
+25,Consumer Discretionary,2520,Consumer Durables & Apparel,252020,Leisure Equipment & Products,25202010,"Manufacturers of leisure products and equipment including sports equipment, bicycles and toys."
+25,Consumer Discretionary,2520,Consumer Durables & Apparel,252020,Leisure Equipment & Products,25202020,Photographic Products
+25,Consumer Discretionary,2520,Consumer Durables & Apparel,252020,Leisure Equipment & Products,25202020,Manufacturers of photographic equipment and related products.
+25,Consumer Discretionary,2520,Consumer Durables & Apparel,252030,Textiles & Apparel,25203010,Apparel & Accessories
+25,Consumer Discretionary,2520,Consumer Durables & Apparel,252030,Textiles & Apparel,25203010,"Manufacturers of apparel and accessories. Includes companies primarily producing designer handbags, wallets, luggage, jewelry and watches. Excludes shoes classified in the Footwear sub-industry."
+25,Consumer Discretionary,2520,Consumer Durables & Apparel,252030,Textiles & Apparel,25203020,Footwear
+25,Consumer Discretionary,2520,Consumer Durables & Apparel,252030,Textiles & Apparel,25203020,Manufacturers of footwear. Includes sport and leather shoes.
+25,Consumer Discretionary,2520,Consumer Durables & Apparel,252030,Textiles & Apparel,25203030,Textiles
+25,Consumer Discretionary,2520,Consumer Durables & Apparel,252030,Textiles & Apparel,25203030,"Manufacturers of textile and related products not classified in the Apparel & Accessories, Footwear or Home Furnishings sub-industries."
+25,Consumer Discretionary,2530,Hotels Restaurants & Leisure,253010,Hotels Restaurants & Leisure,25301010,Casinos & Gaming
+25,Consumer Discretionary,2530,Hotels Restaurants & Leisure,253010,Hotels Restaurants & Leisure,25301010,Owners and operators of casinos and gaming facilities. Includes companies providing lottery and betting services.
+25,Consumer Discretionary,2530,Hotels Restaurants & Leisure,253010,Hotels Restaurants & Leisure,25301020,Hotels
+25,Consumer Discretionary,2530,Hotels Restaurants & Leisure,253010,Hotels Restaurants & Leisure,25301020,"Owners and operators of hotels, resorts and cruise-ships. Includes travel agencies, tour operators and related services not classified elsewhere . Excludes casino-hotels classified in the Casinos & Gaming sub-industry."
+25,Consumer Discretionary,2530,Hotels Restaurants & Leisure,253010,Hotels Restaurants & Leisure,25301030,Leisure Facilities
+25,Consumer Discretionary,2530,Hotels Restaurants & Leisure,253010,Hotels Restaurants & Leisure,25301030,"Owners and operators of leisure facilities, including sport and fitness centers, stadiums, golf courses and amusement parks not classified in the Movies & Entertainment sub-industry."
+25,Consumer Discretionary,2530,Hotels Restaurants & Leisure,253010,Hotels Restaurants & Leisure,25301040,Restaurants
+25,Consumer Discretionary,2530,Hotels Restaurants & Leisure,253010,Hotels Restaurants & Leisure,25301040,"Owners and operators of restaurants, bars, pubs, fast-food or take-out facilities. Includes companies that provide food catering services."
+25,Consumer Discretionary,2540,Media,254010,Media,25401010,Advertising
+25,Consumer Discretionary,2540,Media,254010,Media,25401010,"Companies providing advertising, marketing or public relations services."
+25,Consumer Discretionary,2540,Media,254010,Media,25401020,Broadcasting & Cable TV
+25,Consumer Discretionary,2540,Media,254010,Media,25401020,Owners and operators of television or radio broadcasting systems and providers of cable or satellite television services. including programming.
+25,Consumer Discretionary,2540,Media,254010,Media,25401030,Movies & Entertainment
+25,Consumer Discretionary,2540,Media,254010,Media,25401030,"Companies that engage in producing and selling entertainment products and services, including companies engaged in the production, distribution and screening of movies and television shows, producers and distributors of music, entertainment theaters and sports teams."
+25,Consumer Discretionary,2540,Media,254010,Media,25401040,Publishing & Printing
+25,Consumer Discretionary,2540,Media,254010,Media,25401040,"Publishers of newspapers, magazines and books, printers for the media industry, and providers of information in print or electronic formats."
+25,Consumer Discretionary,2550,Retailing,255010,Distributors,25501010,Distributors
+25,Consumer Discretionary,2550,Retailing,255010,Distributors,25501010,Distributors and wholesalers of general merchandise not classified elsewhere. Includes vehicle distributors.
+25,Consumer Discretionary,2550,Retailing,255020,Internet & Catalog Retail,25502010,Catalog Retail
+25,Consumer Discretionary,2550,Retailing,255020,Internet & Catalog Retail,25502010,Mail order and TV home shopping retailers. Includes companies that provide door-to-door retail.
+25,Consumer Discretionary,2550,Retailing,255020,Internet & Catalog Retail,25502020,Internet Retail
+25,Consumer Discretionary,2550,Retailing,255020,Internet & Catalog Retail,25502020,"Companies providing retail services primarily on the internet, not classified elsewhere."
+25,Consumer Discretionary,2550,Retailing,255030,Multiline Retail,25503010,Department Stores
+25,Consumer Discretionary,2550,Retailing,255030,Multiline Retail,25503010,Owners and operators of department stores.
+25,Consumer Discretionary,2550,Retailing,255030,Multiline Retail,25503020,General Merchandise Stores
+25,Consumer Discretionary,2550,Retailing,255030,Multiline Retail,25503020,"Owners and operators of stores offering diversified general merchandise. Includes stores offering goods at discounted prices and ""members-only"" stores."
+25,Consumer Discretionary,2550,Retailing,255040,Specialty Retail,25504010,Apparel Retail
+25,Consumer Discretionary,2550,Retailing,255040,Specialty Retail,25504010,Retailers specialized mainly in apparel and accessories.
+25,Consumer Discretionary,2550,Retailing,255040,Specialty Retail,25504020,Computer & Electronics Retail
+25,Consumer Discretionary,2550,Retailing,255040,Specialty Retail,25504020,"Owners and operators of consumer electronics, computers, video and related products retail stores."
+25,Consumer Discretionary,2550,Retailing,255040,Specialty Retail,25504030,Home Improvement Retail
+25,Consumer Discretionary,2550,Retailing,255040,Specialty Retail,25504030,Owners and operators of home and garden improvement retail stores. Includes stores offering building materials and supplies.
+25,Consumer Discretionary,2550,Retailing,255040,Specialty Retail,25504040,Specialty Stores
+25,Consumer Discretionary,2550,Retailing,255040,Specialty Retail,25504040,"Owners and operators of specialty retail stores not classified elsewhere. Includes toy stores, office supply stores and automotive retail."
+30,Consumer Staples,3010,Food & Drug Retailing,301010,Food & Drug Retailing,30101010,Drug Retail
+30,Consumer Staples,3010,Food & Drug Retailing,301010,Food & Drug Retailing,30101010,Owners and operators of primarily drug retail stores and pharmacies.
+30,Consumer Staples,3010,Food & Drug Retailing,301010,Food & Drug Retailing,30101020,Food Distributors
+30,Consumer Staples,3010,Food & Drug Retailing,301010,Food & Drug Retailing,30101020,Distributors of food products to other companies and not directly to the consumer.
+30,Consumer Staples,3010,Food & Drug Retailing,301010,Food & Drug Retailing,30101030,Food Retail
+30,Consumer Staples,3010,Food & Drug Retailing,301010,Food & Drug Retailing,30101030,Owners and operators of primarily food retail stores.
+30,Consumer Staples,3020,Food Beverage & Tobacco,302010,Beverages,30201010,Brewers
+30,Consumer Staples,3020,Food Beverage & Tobacco,302010,Beverages,30201010,Producers of beer and malt liquors. Includes breweries not classified in the Restaurants sub-industry.
+30,Consumer Staples,3020,Food Beverage & Tobacco,302010,Beverages,30201020,Distillers & Vintners
+30,Consumer Staples,3020,Food Beverage & Tobacco,302010,Beverages,30201020,"Distillers, vintners and producers of alcoholic beverages not classified in the Brewers sub-industry."
+30,Consumer Staples,3020,Food Beverage & Tobacco,302010,Beverages,30201030,Soft Drinks
+30,Consumer Staples,3020,Food Beverage & Tobacco,302010,Beverages,30201030,Producers of non-alcoholic beverages including mineral waters. Excludes producers of milk classified in the Packaged Foods sub-industry.
+30,Consumer Staples,3020,Food Beverage & Tobacco,302020,Food Products,30202010,Agricultural Products
+30,Consumer Staples,3020,Food Beverage & Tobacco,302020,Food Products,30202010,"Producers of agricultural products. Includes crop growers, owners of plantations and companies that produce and process foods but do not package and market them. Excludes companies classified in the Forest Products sub-industry and those that package and market the food products classified in the Packaged Foods sub-industry."
+30,Consumer Staples,3020,Food Beverage & Tobacco,302020,Food Products,30202020,Meat Poultry & Fish
+30,Consumer Staples,3020,Food Beverage & Tobacco,302020,Food Products,30202020,"Companies that raise livestock or poultry, fishing companies and other producers of meat, poultry or fish products."
+30,Consumer Staples,3020,Food Beverage & Tobacco,302020,Food Products,30202030,Packaged Foods
+30,Consumer Staples,3020,Food Beverage & Tobacco,302020,Food Products,30202030,"Producers of packaged foods including dairy products, fruit juices and pet foods."
+30,Consumer Staples,3020,Food Beverage & Tobacco,302030,Tobacco,30203010,Tobacco
+30,Consumer Staples,3020,Food Beverage & Tobacco,302030,Tobacco,30203010,Manufacturers of cigarettes and other tobacco products.
+30,Consumer Staples,3030,Household & Personal Products,303010,Household Products,30301010,Household Products
+30,Consumer Staples,3030,Household & Personal Products,303010,Household Products,30301010,"Producers of non-durable household products, including detergents, soaps, diapers and other tissue and household paper products not classified in the Paper Products sub-industry."
+30,Consumer Staples,3030,Household & Personal Products,303020,Personal Products,30302010,Personal Products
+30,Consumer Staples,3030,Household & Personal Products,303020,Personal Products,30302010,"Manufacturers of personal and beauty care products, including cosmetics and perfumes."
+35,Health Care,3510,Health Care Equipment & Services,351010,Health Care Equipment & Supplies,35101010,Health Care Equipment
+35,Health Care,3510,Health Care Equipment & Services,351010,Health Care Equipment & Supplies,35101010,Manufacturers of health care equipment and devices. Includes medical electronic precision instruments.  Includes drug delivery systems.
+35,Health Care,3510,Health Care Equipment & Services,351010,Health Care Equipment & Supplies,35101020,Health Care Supplies
+35,Health Care,3510,Health Care Equipment & Services,351010,Health Care Equipment & Supplies,35101020,Manufacturers of health care supplies and medical products not classified elsewhere. Includes eye care products.
+35,Health Care,3510,Health Care Equipment & Services,351020,Health Care Providers & Services,35102010,Health Care Distributors & Services
+35,Health Care,3510,Health Care Equipment & Services,351020,Health Care Providers & Services,35102010,Distributors and wholesalers of health care products and providers of health care services not classified elsewhere. Includes dialysis centers and lab testing services.
+35,Health Care,3510,Health Care Equipment & Services,351020,Health Care Providers & Services,35102020,Health Care Facilities
+35,Health Care,3510,Health Care Equipment & Services,351020,Health Care Providers & Services,35102020,"Owners and operators of health care facilities, including hospitals, nursing homes, rehabilitation and retirement centers, animal hospitals, cemeteries and funeral homes."
+35,Health Care,3510,Health Care Equipment & Services,351020,Health Care Providers & Services,35102030,Managed Health Care
+35,Health Care,3510,Health Care Equipment & Services,351020,Health Care Providers & Services,35102030,Owners and operators of Health Maintenance Organizations (HMOs) and other managed plans.
+35,Health Care,3520,Pharmaceuticals & Biotechnology,352010,Biotechnology,35201010,Biotechnology
+35,Health Care,3520,Pharmaceuticals & Biotechnology,352010,Biotechnology,35201010,"Companies primarily involved in the development, manufacturing or marketing of products based on advanced biotechnology research."
+35,Health Care,3520,Pharmaceuticals & Biotechnology,352020,Pharmaceuticals,35202010,Pharmaceuticals
+35,Health Care,3520,Pharmaceuticals & Biotechnology,352020,Pharmaceuticals,35202010,"Companies engaged in the research, development or production of pharmaceuticals. Includes veterinary drugs."
+40,Financials,4010,Banks,401010,Banks,40101010,Banks
+40,Financials,4010,Banks,401010,Banks,40101010,"All banks, including savings & loans and mortgage banks. Excludes investment banks classified in the Diversified Financial Services sub-industry.  Excludes merchant banks."
+40,Financials,4020,Diversified Financials,402010,Diversified Financials,40201010,Consumer Finance
+40,Financials,4020,Diversified Financials,402010,Diversified Financials,40201010,"Providers of consumer finance services, including personal credit, credit cards, lease financing, mortgage lenders, travel-related money services and pawn shops."
+40,Financials,4020,Diversified Financials,402010,Diversified Financials,40201020,Diversified Financial Services
+40,Financials,4020,Diversified Financials,402010,Diversified Financials,40201020,"Providers of a diversified range of financial services and/or with substantial interests in banking and/or insurance activities, not classified in the Banks or Insurance industries or the Consumer Finance sub-industry. Includes investment management firms and merchant banks."
+40,Financials,4020,Diversified Financials,402010,Diversified Financials,40201030,Multi-Sector Holdings
+40,Financials,4020,Diversified Financials,402010,Diversified Financials,40201030,"A company with significantly diversified holdings across three or more sectors, none of which contributes a majority of profit and/or sales not classified in the Industrial Conglomerates sub-industry."
+40,Financials,4030,Insurance,403010,Insurance,40301010,Insurance Brokers
+40,Financials,4030,Insurance,403010,Insurance,40301010,Insurance and reinsurance brokerage firms.
+40,Financials,4030,Insurance,403010,Insurance,40301020,Life & Health Insurance
+40,Financials,4030,Insurance,403010,Insurance,40301020,"Companies providing primarily life, disability, indemnity or supplemental health insurance. Excludes managed care companies classified in the Managed Health Care sub-industry."
+40,Financials,4030,Insurance,403010,Insurance,40301030,Multi-line Insurance
+40,Financials,4030,Insurance,403010,Insurance,40301030,"Insurance companies with diversified interests in life, health and property and casualty insurance."
+40,Financials,4030,Insurance,403010,Insurance,40301040,Property & Casualty Insurance
+40,Financials,4030,Insurance,403010,Insurance,40301040,Companies providing primarily property and casualty insurance.
+40,Financials,4030,Insurance,403010,Insurance,40301050,Reinsurance
+40,Financials,4030,Insurance,403010,Insurance,40301050,Companies providing primarily reinsurance.
+40,Financials,4040,Real Estate,404010,Real Estate,40401010,Real Estate Investment Trusts
+40,Financials,4040,Real Estate,404010,Real Estate,40401010,Real estate investment trusts (REITs).
+40,Financials,4040,Real Estate,404010,Real Estate,40401020,Real Estate Management & Development
+40,Financials,4040,Real Estate,404010,Real Estate,40401020,"Companies engaged in real estate ownership, development or  management."
+45,Information Technology,4510,Software & Services,451010,Internet Software & Services,45101010,Internet Software & Services
+45,Information Technology,4510,Software & Services,451010,Internet Software & Services,45101010,"Companies developing and marketing internet software and/or providing internet services including online databases and interactive services, web address registration services, database construction and internet design services. Excludes companies classified in the Internet Retail sub-industry."
+45,Information Technology,4510,Software & Services,451020,IT Consulting & Services,45102010,IT Consulting & Services
+45,Information Technology,4510,Software & Services,451020,IT Consulting & Services,45102010,Providers of information technology services not classified in the Data Processing Services or Internet Software & Services sub-industries. Includes information technology consulting and information management services.
+45,Information Technology,4510,Software & Services,451030,Software,45103010,Application Software
+45,Information Technology,4510,Software & Services,451030,Software,45103010,"Companies engaged in developing and producing software designed for specialized applications for the business or consumer market. Includes enterprise, technical and entertainment software. Excludes companies producing systems or database management software classified in the Systems Software sub-industry."
+45,Information Technology,4510,Software & Services,451030,Software,45103020,Systems Software
+45,Information Technology,4510,Software & Services,451030,Software,45103020,Companies engaged in developing and producing systems and database management software.
+45,Information Technology,4520,Technology Hardware & Equipment,452010,Communications Equipment,45201010,Networking Equipment
+45,Information Technology,4520,Technology Hardware & Equipment,452010,Communications Equipment,45201010,"Manufacturers of computer networking equipment and products, including LANs, WANs and routers."
+45,Information Technology,4520,Technology Hardware & Equipment,452010,Communications Equipment,45201020,Telecommunications Equipment
+45,Information Technology,4520,Technology Hardware & Equipment,452010,Communications Equipment,45201020,"Manufacturers of telecommunication equipment, including telephones, switchboards and exchanges. Excludes companies classified in the Networking Equipment sub-industry."
+45,Information Technology,4520,Technology Hardware & Equipment,452020,Computers & Peripherals,45202010,Computer Hardware
+45,Information Technology,4520,Technology Hardware & Equipment,452020,Computers & Peripherals,45202010,"Manufacturers of personal computers, servers, mainframes and workstations. Includes manufacturers of Automatic Teller Machines (ATMs). Excludes manufacturers of copiers, faxes and related products classified in the Office Electronics sub-industry."
+45,Information Technology,4520,Technology Hardware & Equipment,452020,Computers & Peripherals,45202020,Computer Storage & Peripherals
+45,Information Technology,4520,Technology Hardware & Equipment,452020,Computers & Peripherals,45202020,"Manufacturers of electronic computer components and peripherals. Includes data storage components, motherboards, audio and video cards, monitors, keyboards, printers and other peripherals. Excludes semiconductors classified in the Semiconductors sub-industry."
+45,Information Technology,4520,Technology Hardware & Equipment,452030,Electronic Equipment & Instruments,45203010,Electronic Equipment & Instruments
+45,Information Technology,4520,Technology Hardware & Equipment,452030,Electronic Equipment & Instruments,45203010,"Producers and/or distributors of electronic equipment, instruments or components. Includes analytical, electronic test and measurement instruments, electronic components, connection devices and equipment not classified elsewhere."
+45,Information Technology,4520,Technology Hardware & Equipment,452040,Office Electronics,45204010,Office Electronics
+45,Information Technology,4520,Technology Hardware & Equipment,452040,Office Electronics,45204010,Manufacturers of office electronic equipment including copiers and faxes.
+45,Information Technology,4520,Technology Hardware & Equipment,452050,Semiconductor Equipment & Products,45205010,Semiconductor Equipment
+45,Information Technology,4520,Technology Hardware & Equipment,452050,Semiconductor Equipment & Products,45205010,Manufacturers of semiconductor equipment.
+45,Information Technology,4520,Technology Hardware & Equipment,452050,Semiconductor Equipment & Products,45205020,Semiconductors
+45,Information Technology,4520,Technology Hardware & Equipment,452050,Semiconductor Equipment & Products,45205020,Manufacturers of semiconductors and related products.
+50,Telecommunication Services,5010,Telecommunication Services,501010,Diversified Telecommunication Services,50101010,Alternative Carriers
+50,Telecommunication Services,5010,Telecommunication Services,501010,Diversified Telecommunication Services,50101010,Providers of communications and high-density data transmission services primarily through a high bandwidth/fiber-optic cable network.
+50,Telecommunication Services,5010,Telecommunication Services,501010,Diversified Telecommunication Services,50101020,Integrated Telecommunication Services
+50,Telecommunication Services,5010,Telecommunication Services,501010,Diversified Telecommunication Services,50101020,Operators of primarily fixed-line telecommunications networks and companies providing both wireless and fixed-line telecommunications services not classified elsewhere.
+50,Telecommunication Services,5010,Telecommunication Services,501020,Wireless Telecommunication Services,50102010,Wireless Telecommunication Services
+50,Telecommunication Services,5010,Telecommunication Services,501020,Wireless Telecommunication Services,50102010,"Providers of primarily cellular or wireless telecommunication services, including paging services."
+55,Utilities,5510,Utilities,551010,Electric Utilities,55101010,Electric Utilities
+55,Utilities,5510,Utilities,551010,Electric Utilities,55101010,"Companies that produce or distribute electricity. Includes both nuclear and non-nuclear facilities, as well as independent power producers."
+55,Utilities,5510,Utilities,551020,Gas Utilities,55102010,Gas Utilities
+55,Utilities,5510,Utilities,551020,Gas Utilities,55102010,Distributors of natural and manufactured gas. Excludes companies primarily involved in gas exploration or production classified in Oil & Gas Exploration & Production sub-industry. Includes owners and operators of gas pipelines.
+55,Utilities,5510,Utilities,551030,Multi-Utilities,55103010,Multi-Utilities
+55,Utilities,5510,Utilities,551030,Multi-Utilities,55103010,"Utility companies with significantly diversified activities in the Electric Utilities, Gas Utilities and/or Water Utilities sub-industries not classified elsewhere."
+55,Utilities,5510,Utilities,551040,Water Utilities,55104010,Water Utilities
+55,Utilities,5510,Utilities,551040,Water Utilities,55104010,Companies that purchase and redistribute water to the end-consumer. Includes large-scale water treatment systems.
